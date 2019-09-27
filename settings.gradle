@@ -1,0 +1,2 @@
+include ':app', ':libraryspinnerwithdefaultelement2'
+rootProject.name='LibrarySpinnerWithDefaultElement'

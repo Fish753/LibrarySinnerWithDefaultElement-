@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LibrarySpinnerWithDefaultElement</string>
+    <string name="select_element">Select element</string>
+    <string-array name="answer">
+        <item>First element</item>
+        <item>Second element</item>
+        <item>Third element</item>
+    </string-array>
+</resources>
